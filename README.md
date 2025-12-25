@@ -44,7 +44,7 @@ This tool is designed for **educational purposes**, **defensive security**, and 
 
 ### Usage
 
-python main.py <DOMAIN_OR_IP_ADDRESS>
+python main.py
 
 ---
 
