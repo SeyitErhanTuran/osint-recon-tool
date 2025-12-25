@@ -32,7 +32,7 @@ This tool is designed for **educational purposes**, **defensive security**, and 
 
 ## Installation
 
-git clone https://github.com/<your-username>/osint-recon-tool.git
+git clone https://github.com/SeyitErhanTuran/osint-recon-tool.git
 cd osint-recon-tool
 pip install -r requirements.txt
 
