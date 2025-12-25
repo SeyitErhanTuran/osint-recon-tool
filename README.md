@@ -55,8 +55,8 @@ python main.py
     "ip": "IP ADDRESS",
     "subdomains": [...],
     "stats": {
-        "raw_subdomains": 5,
-        "filtered_subdomains": 2 
+        "raw_subdomains": ,
+        "filtered_subdomains":  
     }
 }
 
