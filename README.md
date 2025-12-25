@@ -34,6 +34,10 @@ This tool is designed for **educational purposes**, **defensive security**, and 
 
 - git clone https://github.com/SeyitErhanTuran/osint-recon-tool.git
 - cd osint-recon-tool
+- python3 -m venv venv
+- Activate virtual environment:
+  - For Linux/macOS: `source venv/bin/activate`
+  - For Windows: `venv\Scripts\activate`
 - pip install -r requirements.txt
   
 ---
